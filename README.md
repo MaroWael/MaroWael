@@ -63,9 +63,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MaroWael/count.svg?"  />
-</div>
-
-###
