@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Tools & Languages</p>
+<h3 align="left">Tools & Languages</h3>
 
 ###
 
@@ -49,17 +49,17 @@
 
 ###
 
-<p align="left">Connect With Me</p>
+###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marowael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marowael" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/maro_wael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maro_wael" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/debughunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="debughunter" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/marwanwael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marwanwael" height="30" width="40" /></a>
+</p>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/MaroWael/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@maro_wael" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marowael&label=Profile%20views&color=0e75b6&style=flat" alt="marowael" /> </p>
 
 ###
