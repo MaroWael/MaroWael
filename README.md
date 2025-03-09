@@ -1,4 +1,8 @@
-<h2 align="left">Hi, I'm Marwan Wael and I'm a data science enthusiastic</h2>
+<h2 align="left">Hi, I'm Marwan Wael</h2>
+
+###
+
+<p align="left">I'm a passionate data scientist and machine learning enthusiast with a focus on building efficient algorithms and scalable data pipelines. I enjoy working with Python, SQL, and modern frameworks like TensorFlow and PyTorch, and I’m always exploring new tools in AI and data engineering. Welcome to my GitHub profile!</p>
 
 ###
 
@@ -6,6 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MaroWael&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaroWael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<p align="left">Tools & Languages</p>
 
 ###
 
@@ -35,7 +43,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+###
+
+<p align="left">Connect With Me</p>
 
 ###
 
@@ -50,8 +64,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MaroWael/MaroWael/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MaroWael/count.svg?"  />
+</div>
 
 ###
